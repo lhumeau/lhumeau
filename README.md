@@ -19,9 +19,11 @@ Passionate about technology, education and learn something new.
 <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/msql_server.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg">
+<img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
+<img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/msql_server.svg">
+<img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=101&color=currentColor">
+
  
 
 </div>
