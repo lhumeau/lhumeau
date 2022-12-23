@@ -23,6 +23,7 @@ Passionate about technology, education and learn something new.
 <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=101&color=currentColor">
 <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg">
  <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=101&color=currentColor">
+ <img align="center" alt="Js" height="40" width="50" src="https://worldvectorlogo.com/download/microsoft-sql-server-1.svg">
 
  
 
