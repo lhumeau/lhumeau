@@ -3,9 +3,7 @@ Passionate about technology, education and learn something new.
 
  
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/geraldo-ventura-22ab57223/?locale=en_US](https://www.linkedin.com/in/luis-humeau-mgp-506b7680/)])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lhumeau/)
-
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/luis-humeau-mgp-506b7680/)]
  
 
 <div align="left">
