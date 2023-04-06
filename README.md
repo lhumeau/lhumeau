@@ -3,7 +3,7 @@ Passionate about technology, education and learn something new.
 
  
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/geraldo-ventura-22ab57223/?locale=en_US](https://www.linkedin.com/in/luis-humeau-mgp-506b7680/))
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/geraldo-ventura-22ab57223/?locale=en_US](https://www.linkedin.com/in/luis-humeau-mgp-506b7680/)])
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lhumeau/)
 
  
@@ -24,6 +24,7 @@ Passionate about technology, education and learn something new.
 <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=101&color=currentColor">
 <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
  <img align="center" alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg">
 
 
 
