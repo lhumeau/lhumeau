@@ -1,6 +1,6 @@
 ### Hi! I'm Luis Humeau! 🖐️
 Passionate about technology, education and learn something new.
-
+Go for ML and AI.
  
 
 
@@ -21,6 +21,15 @@ Passionate about technology, education and learn something new.
 <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
  <img align="center" alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://icongr.am/devicon/git-original.svg">
+ <img align="center" alt="Js" height="40" width="50" src="https://img.icons8.com/color/48/typescript.png">
+
+
+
+
+ 
 
 
 
