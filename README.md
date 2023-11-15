@@ -29,5 +29,7 @@ Explorando el mundo de ML y AI.
 </br>
 
 <div align="left">
-  ![Animación de serpiente](https://github.com/lhumeau/lhumeau/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/carlosportella16/carlosportella16/blob/output/github-contribution-grid-snake.svg)
+
 </div>
