@@ -1,6 +1,5 @@
 ### ¡Hola! Soy Luis Humeau! 🖐️
-Apasionado por la tecnología, la educación y aprender algo nuevo.
-Explorando el mundo de ML y AI.
+Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando el mundo de ML y AI.
 
 <div align="left">
   <a href="https://github.com/lhumeau">
@@ -11,9 +10,15 @@ Explorando el mundo de ML y AI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg">
   <img align="center" alt="Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg">
+  <!-- Agrega el ícono de Git aquí -->
+  <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
+  <!-- Fin del ícono de Git -->
+  <img align="center" alt="Oracle" height="40" width="50" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Express" height="40" width="50" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://img.icons8.com/color/48/typescript.png">
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
