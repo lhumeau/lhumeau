@@ -34,6 +34,5 @@ Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando e
 
 <div align="left">
 
-  ![Snake animation](https://github.com/carlosportella16/carlosportella16/blob/output/github-contribution-grid-snake.svg)
 
 </div>
