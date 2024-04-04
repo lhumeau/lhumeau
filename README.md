@@ -11,7 +11,6 @@ Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando e
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg">
   <img align="center" alt="Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg">
   <!-- Agrega el ícono de Git aquí -->
