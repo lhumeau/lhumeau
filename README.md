@@ -30,6 +30,8 @@ Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando e
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor">
   <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/simple/apollographql.svg?size=128&color=currentColor">  
+  <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor">  
+  
 </div>
 </br>
 
