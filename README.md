@@ -36,7 +36,25 @@ A Network and Cybersecurity Specialist with over a decade of experience in IT in
 </div>
 <br/>
 
+#### Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/luis-humeau-mgp-mcs-506b7680/)
+
 Feel free to reach out for collaborations or just a tech chat!
 
+#### My Open Source Contributions
+- [VoiceNoteTranscription](https://github.com/lhumeau/VoiceNoteTranscription) - Transcribing voice notes to text.
+- [Block_by_IP_and_Port](https://github.com/lhumeau/Block_by_IP_and_Port) - A tool for blocking traffic by IP and port.
+- [AdUserPasswordValidator](https://github.com/lhumeau/AdUserPasswordValidator) - Active Directory password validation script.
+- [Fetchvcards](https://github.com/lhumeau/Fetchvcards) - A utility for fetching vCards from an online source.
+- [jfiffilesConverter](https://github.com/lhumeau/jfiffilesConverter) - A converter for JFIF image files.
+
+#### Current Projects
+- **XEISSOFT**: As the sole developer of a sophisticated logging and tracking software, I am responsible for the entire project lifecycle from database design to frontend implementation. This personal project leverages my full-stack capabilities, including:
+  - **Database Management**: Designing and administering robust database architectures to ensure efficient data handling and integrity.
+  - **Backend Development**: Crafting scalable and secure server-side logic using [mention specific technologies like Node.js, Python, etc.].
+  - **Frontend Engineering**: Developing intuitive and responsive user interfaces with [mention technologies like React, Angular, etc.].
+  - **Infrastructure**: Managing the deployment and maintenance of the project infrastructure, ensuring optimal performance and security.
+
+This project not only enhances equipment management but also serves as a testament to my comprehensive skills in building complex software solutions from the ground up.
 
 </div>
