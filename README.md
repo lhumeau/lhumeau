@@ -1,5 +1,8 @@
-### ¡Hola! Soy Luis Humeau! 🖐️
-Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando el mundo de ML y AI.
+### Hello! I'm Luis Humeau! 🖐️
+
+A Network and Cybersecurity Specialist with over a decade of experience in IT infrastructure and team management, I am passionate about creating robust software solutions. I specialize in network design, security, and innovation in software development.
+
+#### Tech Tools and Languages:
 
 <div align="left">
   <a href="https://github.com/lhumeau">
@@ -13,9 +16,7 @@ Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando e
   <img align="center" alt="MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg">
   <img align="center" alt="Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg">
-  <!-- Agrega el ícono de Git aquí -->
   <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
-  <!-- Fin del ícono de Git -->
   <img align="center" alt="Oracle" height="40" width="50" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
   <img align="center" alt="Express" height="40" width="50" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://img.icons8.com/color/48/typescript.png">
@@ -33,9 +34,9 @@ Apasionado por la tecnología, la educación y aprender algo nuevo. Explorando e
   <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor">  
   
 </div>
-</br>
+<br/>
 
-<div align="left">
+Feel free to reach out for collaborations or just a tech chat!
 
 
 </div>
