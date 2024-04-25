@@ -52,7 +52,7 @@ Feel free to reach out for collaborations or just a tech chat!
 - **XEISSOFT**: As the sole developer of a sophisticated logging and tracking software, I am responsible for the entire project lifecycle from database design to frontend implementation. This personal project leverages my full-stack capabilities, including:
   - **Database Management**: Designing and administering robust database architectures to ensure efficient data handling and integrity.
   - **Backend Development**: Crafting scalable and secure server-side logic using [mention specific technologies like Node.js, Python, etc.].
-  - **Frontend Engineering**: Developing intuitive and responsive user interfaces with [mention technologies like React, Angular, etc.].
+  - **Frontend Engineering**: Developing intuitive and responsive user interfaces with [mention technologies like React, etc.].
   - **Infrastructure**: Managing the deployment and maintenance of the project infrastructure, ensuring optimal performance and security.
 
 This project not only enhances equipment management but also serves as a testament to my comprehensive skills in building complex software solutions from the ground up.
