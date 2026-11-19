@@ -1,60 +1,81 @@
-### Hello! I'm Luis Humeau! 🖐️
+# Hello, I'm Luis Humeau! 👋
 
-A Network and Cybersecurity Specialist with over a decade of experience in IT infrastructure and team management, I am passionate about creating robust software solutions. I specialize in network design, security, and innovation in software development.
+**IT Manager · Network & Cybersecurity Specialist · Software Engineering · Applied AI**
 
-#### Tech Tools and Languages:
+📍 Dominican Republic &nbsp;·&nbsp; [GitHub](https://github.com/lhumeau) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/luis-humeau-mgp-mcs-506b7680/)
 
-<div align="left">
-  <a href="https://github.com/lhumeau">
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhumeau&theme=dark&show_icons=true"/> -->
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhumeau&layout=compact&langs_count=7&theme=dark"/> -->
-  </a>
-</div>
+I'm a technology leader and hands-on engineer with **10+ years of experience** in IT infrastructure, networking, cybersecurity, and technology operations. I enjoy designing secure systems and turning complex business requirements into practical software, integrations, and automation.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg">
-  <img align="center" alt="Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Oracle" height="40" width="50" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Express" height="40" width="50" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://img.icons8.com/color/48/typescript.png">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=101&color=currentColor">
-  <img align="center" alt="Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=101&color=currentColor">
-  <img align="center" alt="Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Microsoft SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/simple/apollographql.svg?size=128&color=currentColor">  
-  <img align="center" alt="Redis" height="40" width="50" src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor">  
-  
-</div>
-<br/>
+### What I work on
 
-#### Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/luis-humeau-mgp-mcs-506b7680/)
+- **IT leadership & cybersecurity:** Network architecture, firewalls, VPNs, Zero Trust access, and secure operations.
+- **Backend & full-stack engineering:** REST/GraphQL APIs, web applications, authentication, integrations, and production deployments.
+- **Cloud & DevOps:** Linux, containers, reverse proxies, CI/CD, infrastructure monitoring, and reliability.
+- **Data engineering & analytics:** PostgreSQL/PostGIS, SQL Server, ETL pipelines, dashboards, and business intelligence.
+- **Applied AI & automation:** Voice interfaces, AI agents, machine learning experiments, and workflow automation.
 
-Feel free to reach out for collaborations or just a tech chat!
+## Tech stack
 
-#### My Open Source Contributions
-- [VoiceNoteTranscription](https://github.com/lhumeau/VoiceNoteTranscription) - Transcribing voice notes to text.
-- [Block_by_IP_and_Port](https://github.com/lhumeau/Block_by_IP_and_Port) - A tool for blocking traffic by IP and port.
-- [AdUserPasswordValidator](https://github.com/lhumeau/AdUserPasswordValidator) - Active Directory password validation script.
-- [Fetchvcards](https://github.com/lhumeau/Fetchvcards) - A utility for fetching vCards from an online source.
-- [jfiffilesConverter](https://github.com/lhumeau/jfiffilesConverter) - A converter for JFIF image files.
+**Languages, frameworks & APIs**
 
-#### Current Projects
-- **XEISSOFT**: As the sole developer of a sophisticated logging and tracking software, I am responsible for the entire project lifecycle from database design to frontend implementation. This personal project leverages my full-stack capabilities, including:
-  - **Database Management**: Designing and administering robust database architectures to ensure efficient data handling and integrity.
-  - **Backend Development**: Crafting scalable and secure server-side logic using [mention specific technologies like Node.js, Python, etc.].
-  - **Frontend Engineering**: Developing intuitive and responsive user interfaces with [mention technologies like React, etc.].
-  - **Infrastructure**: Managing the deployment and maintenance of the project infrastructure, ensuring optimal performance and security.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/apollographql/apollographql-original.svg" alt="Apollo GraphQL" title="Apollo GraphQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+</p>
 
-This project not only enhances equipment management but also serves as a testament to my comprehensive skills in building complex software solutions from the ground up.
+**Databases & analytics**
 
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/metabase/metabase-original.svg" alt="Metabase" title="Metabase" width="40" height="40" />
+</p>
+
+**Infrastructure, cloud & DevOps**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" width="40" height="40" />
+</p>
+
+## Featured open-source repositories
+
+| Repository | What it does |
+| --- | --- |
+| [VoiceNoteTranscription](https://github.com/lhumeau/VoiceNoteTranscription) | Containerized FastAPI service for converting voice notes to text. |
+| [Block_by_IP_and_Port](https://github.com/lhumeau/Block_by_IP_and_Port) | Python utility for monitoring and blocking traffic by IP and port on Windows. |
+| [AdUserPasswordValidator](https://github.com/lhumeau/AdUserPasswordValidator) | Node.js utility for authenticating users against Active Directory. |
+| [Fetchvcards](https://github.com/lhumeau/Fetchvcards) | Node.js script for retrieving and processing vCards. |
+| [jfiffilesConverter](https://github.com/lhumeau/jfiffilesConverter) | Utility for converting JFIF image files. |
+
+## Selected work & interests
+
+- **XEISSOFT:** End-to-end equipment logging and tracking software, from database design to backend, frontend, and deployment.
+- **Operational platforms:** Software for equipment management, field operations, integrations, and decision-support dashboards.
+- **AI and automation:** Exploring speech recognition, AI agents, data pipelines, and reinforcement learning for practical applications.
+
+## Let's connect
+
+I'm open to exchanging ideas about cybersecurity, software architecture, DevOps, AI, and open-source projects. Find me on [LinkedIn](https://www.linkedin.com/in/luis-humeau-mgp-mcs-506b7680/) or explore my [GitHub repositories](https://github.com/lhumeau?tab=repositories).
+
+<!-- Technology icons: Devicon v2.18.0, delivered via jsDelivr. -->
